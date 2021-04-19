@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "safaricom mpesa daraja-api node package",
   "main": "app.js",
+  "git repository":"https://github.com/bramuel/daraja-node-package.git",
   "scripts": {
     "start": "nodemon server.js"
   },
