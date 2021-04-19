@@ -5,7 +5,8 @@
   "main": "app.js",
   "git repository":"https://github.com/bramuel/daraja-node-package.git",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "nodemon server.js",
+    "test":"jest"
   },
   "keywords": [
     "daraja",
